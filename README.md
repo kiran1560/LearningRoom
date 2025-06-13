@@ -28,11 +28,12 @@ npm start</code></pre>
 
 
   <h2> Demo</h2>
-  <p>Here’s a quick demo of the Learning Room in action: </p>
+  <p>Here’s a quick demo of the Learning Room in action: 
+Link : https://learning-room.netlify.app/ 
+</p>
 
 
-  <img src="frontend/src/assets/assets/img/LearningRoom.gif" alt="Learning Room Project Demo"
-Link : https://learning-room.netlify.app/ >
+  <img src="frontend/src/assets/assets/img/LearningRoom.gif" alt="Learning Room Project Demo">
 
 </body>
 </html>
