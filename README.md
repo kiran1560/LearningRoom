@@ -54,7 +54,7 @@ npm start</code></pre>
   <h2> Demo</h2>
   <p>Here’s a quick demo of the Learning Room in action:</p>
 
-  <img src="C:\learningRoom\frontend\src\assets\assets\img\LearningRoom.gif" alt="Learning Room Project Demo">
+  <img src="LearningRoom.gif" alt="Learning Room Project Demo">
 
 </body>
 </html>
