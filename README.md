@@ -2,30 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f4;
-      padding: 20px;
-      color: #333;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    img {
-      margin-top: 20px;
-      max-width: 100%;
-      border-radius: 8px;
-      border: 1px solid #ccc;
-    }
-  </style>
 </head>
 <body>
 
