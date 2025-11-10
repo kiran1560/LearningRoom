@@ -29,7 +29,7 @@ npm start</code></pre>
 
   <h2> Demo</h2>
   <p>Here’s a quick demo of the Learning Room in action: 
- [Link](https://study-fd.vercel.app/login) 
+ Link: https://study-fd.vercel.app/login 
 </p>
 
 
